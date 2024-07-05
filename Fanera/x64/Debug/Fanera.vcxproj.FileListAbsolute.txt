@@ -1,0 +1,3 @@
+C:\Users\bacar\source\repos\Fanera\Fanera\x64\Debug\Fanera.vcxproj.AssemblyReference.cache
+C:\Users\bacar\source\repos\Fanera\Fanera\x64\Debug\Fanera.MyForm.resources
+C:\Users\bacar\source\repos\Fanera\Fanera\x64\Debug\Fanera.vcxproj.GenerateResource.cache
